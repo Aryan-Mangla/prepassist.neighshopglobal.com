@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Fxray-reader\u002F[subject]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
